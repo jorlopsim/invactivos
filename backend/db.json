@@ -1,0 +1,102 @@
+{
+  "areas": [
+    {
+      "id": 1,
+      "name": "Sistemas",
+      "enc_name": "Juan Perez",
+      "nro_official": "4"
+    },
+    {
+      "id": 2,
+      "name": "Admistracion",
+      "enc_name": "Alex Torrez Espinoza",
+      "nro_official": "3"
+    },
+    {
+      "name": "Recurso Humanos",
+      "enc_name": "Perez Torrez",
+      "nro_official": "3",
+      "id": 4
+    },
+    {
+      "name": "Produccion",
+      "enc_name": "Juan Lopez",
+      "nro_official": "4",
+      "id": 5
+    }
+  ],
+  "activos": [
+    {
+      "id": 1,
+      "type": "Computadora",
+      "brand": "HP",
+      "model": "Ryzen 5",
+      "state": "usado",
+      "areaId": 1
+    },
+    {
+      "type": "Computadora",
+      "brand": "HP",
+      "model": "Ryzen 7",
+      "state": "nuevo",
+      "areaId": 1,
+      "id": 2
+    },
+    {
+      "type": "Computadora",
+      "brand": "AMD",
+      "model": "AMD-525",
+      "state": "nuevo",
+      "areaId": 1,
+      "id": 5
+    },
+    {
+      "type": "Computadora",
+      "brand": "HP",
+      "model": "HPO-10",
+      "state": "usado",
+      "areaId": 4,
+      "id": 6
+    },
+    {
+      "type": "Mueble",
+      "brand": "Mb-01",
+      "model": "Mueble de escritorio",
+      "state": "desuso",
+      "areaId": 2,
+      "id": 7
+    },
+    {
+      "type": "Mueble",
+      "brand": "Mb-01",
+      "model": "Mueble de escritorio",
+      "state": "usado",
+      "areaId": 2,
+      "id": 8
+    },
+    {
+      "type": "Mueble",
+      "brand": "Mb-02",
+      "model": "Mueblo para computadora",
+      "state": "nuevo",
+      "areaId": 2,
+      "id": 9
+    },
+    {
+      "type": "Automovil",
+      "brand": "ZUZUQUI",
+      "model": "SX4",
+      "state": "usado",
+      "areaId": 1,
+      "id": 10
+    },
+    {
+      "type": "Mueble",
+      "brand": "MB02",
+      "model": "MORU",
+      "state": "nuevo",
+      "areaId": 4,
+      "id": 11
+    }
+  ]
+}
