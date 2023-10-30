@@ -1,7 +1,7 @@
 <template>
   <nav>
     <div class="nav-wrapper">
-      <a href="/" class="brand-logo right">Sistema de Activos Fijos</a>
+      <a href="/" class="brand-logo right">SISACT</a>
       <ul id="nav-mobile" class="left ">
         <li>
           <a class="waves-effect waves-light ">

@@ -1,7 +1,8 @@
 <template>
   <div class="home">
     
-    <h2>Bienvenidos</h2>
+    <h2>Bienvenidos a la Empresa F&F</h2>
+    <h2>Control de Activos Fijos</h2>
 
   </div>
 </template>
